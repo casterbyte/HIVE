@@ -3,6 +3,8 @@ VLAN L2 pivoting tool
 
 This tool analyzes traffic for VLAN ID for gaining access to other VLAN segments. "HIVE" is completely self-contained and does not create any noise on the air. After traffic analysis, the tool creates virtual VLAN interfaces, to gain access to VLAN segments. **Recommended for pentesters, red team operators.**
 
+In fact, the phenomenon of L2 Pivoting occurs, when the attacker gained access to a VLAN segment that was originally not supposed to be accessed. 
+
 ## Impact & Scenartio
 This tool is worth using if you are on a **TRUNK PORT**. The following scenarios usually contribute to this:
 
