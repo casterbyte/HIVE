@@ -6,10 +6,10 @@ This tool analyzes traffic for VLAN ID for gaining access to other VLAN segments
 ## Impact & Scenartio
 This tool is worth using if you are on a trunk port. The following scenarios usually contribute to this:
 
-1) You connected to a port where VoIP and the computer itself were connected in the gap. Often enough it happens when the port is configured in the trunk for this purpose.
-2) A hypervisor has been accessed, which in turn is connected to the trunk port
-3) The attacker performed a DTP injection, thereby ending up on the trunk port (this attack vector is rare, due to the peculiarities of the DTP protocol)
-4) The attacker gained access to the switch he is connected to and switched himself to Trunk
+1) You connected to a port where VoIP and the computer itself were connected in the gap. Often enough it happens when the port is configured in the trunk for this purpose;
+2) A hypervisor has been accessed, which in turn is connected to the trunk port;
+3) The attacker performed a DTP injection, thereby ending up on the trunk port (this attack vector is rare, due to the peculiarities of the DTP protocol);
+4) The attacker gained access to the switch he is connected to and switched himself to Trunk;
 
 ## Installation
 ```
@@ -19,8 +19,8 @@ sudo pip3 install -r requirements.txt
 ## Usage
 This tool takes two arguments as input:
 
-1) the interface
-2) timeout. this is the time during which the tool will listen to the traffic. choose this parameter wisely
+1) The interface;
+2) Timeout. this is the time during which the tool will listen to the traffic. choose this parameter wisely
 
 ```
 python3 HIVE.py --help
