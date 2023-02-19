@@ -1,5 +1,5 @@
 # HIVE
-VLAN L2 pivoting tool
+VLAN L2 pivoting instrument
 
 This tool analyzes traffic for VLAN ID for gaining access to other VLAN segments. "HIVE" is completely self-contained and does not create any noise on the air. After traffic analysis, the tool creates virtual VLAN interfaces, to gain access to VLAN segments. **Recommended for pentesters, red team operators.**
 
@@ -57,3 +57,7 @@ options:
 ```
 sudo python3 HIVE.py --interface ethX --timeout 60
 ```
+
+## Last Word
+I was inspired by KLOUD music when I designed this instrument. I named the instrument after the track "The HIVE", [specifically the HIVE VIP Version.](https://youtu.be/pZZ-ELvRGeI?t=291)
+
