@@ -52,3 +52,6 @@ options:
                         interface to listen for traffic
   --timeout TIMEOUT     VLAN 802.1Q Scan Timeout
   ```
+```
+sudo python3 HIVE.py --interface ethX --timeout 60
+```
