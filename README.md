@@ -59,5 +59,4 @@ sudo python3 HIVE.py --interface ethX --timeout 60
 ```
 
 ## Last Word
-I was inspired by KLOUD music when I designed this instrument. I named the instrument after the track "The HIVE", [specifically the HIVE VIP Version.](https://youtu.be/pZZ-ELvRGeI?t=291)
-
+[I was inspired by the track "The HIVE" (VIP REMIX)](https://youtu.be/pZZ-ELvRGeI?t=291) when I wrote this instrumental. This dedicated to KLOUD.
