@@ -49,8 +49,8 @@ usage: HIVE.py [-h] --interface INTERFACE --timeout TIMEOUT
 options:
   -h, --help            show this help message and exit
   --interface INTERFACE
-                        interface to listen for traffic
-  --timeout TIMEOUT     VLAN 802.1Q Scan Timeout
+                        Interface to listen for traffic
+  --timeout TIMEOUT     How long the tool will listen to traffic
   ```
 ```
 sudo python3 HIVE.py --interface ethX --timeout 60
