@@ -1,5 +1,5 @@
 # HIVE
-VLAN L2 pivoting instrument
+VLAN L2 Pivoting Instrument
 
 This tool analyzes traffic for VLAN ID for gaining access to other VLAN segments. "HIVE" is completely self-contained and does not create any noise on the air. After traffic analysis, the tool creates virtual VLAN interfaces, to gain access to VLAN segments. **Recommended for pentesters, red team operators.**
 
