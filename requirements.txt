@@ -1,0 +1,4 @@
+colorama
+pyshark
+scapy
+argparse
