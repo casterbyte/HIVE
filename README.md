@@ -7,7 +7,7 @@ This tool analyzes traffic for VLAN ID for gaining access to other VLAN segments
 
 **All information contained in this repository is provided for educational and research purposes only. The author is not responsible for any illegal use of this tool**
 
-In fact, the phenomenon of L2 Pivoting occurs, when the attacker gained access to a VLAN segment that was originally not supposed to be accessed. The experimental direction I am exploring.
+---
 
 ## Impact & Scenartio
 This tool is worth using if you are on a **TRUNK PORT**. The following scenarios usually contribute to this:
