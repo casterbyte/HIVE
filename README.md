@@ -19,7 +19,7 @@ This tool is worth using if you are on a **TRUNK PORT**. The following scenarios
 
 ## Installation
 ```
-git clone https://github.com/c4s73r/HIVE
+git clone https://github.com/casterbyte/HIVE
 sudo pip3 install -r requirements.txt
 ```
 ## Usage
@@ -48,7 +48,7 @@ MMMMMMMMMMMMMWNWMMMMXxlo0WMMMMMMMMMMMMMMMMXkllKMMMMMMMMMMMMMMMMNc  .kMMMMMMMMMWX
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWMMMMMMMMMMMMMMMMMNOoodKMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                                                                                                                                                                                               
 
 VLAN L2 Pivoting Instrument
-Author: Caster, @c4s73r, <c4s73r@protonmail.com>
+Author: Caster, @casterbyte, <caster@exploit.org>
 
 usage: HIVE.py [-h] --interface INTERFACE --timeout TIMEOUT
 
@@ -62,5 +62,3 @@ options:
 sudo python3 HIVE.py --interface ethX --timeout 60
 ```
 
-## Last Word
-[I was inspired by the track "The HIVE" (VIP REMIX)](https://youtu.be/pZZ-ELvRGeI?t=291) when I wrote this tool. This dedicated to KLOUD.
