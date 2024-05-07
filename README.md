@@ -47,7 +47,7 @@ MMMMMMMMMMMW0c,lKWMM0' .xWMMMMMMMMMMMMMMMWO'  ;0MMMMMMMMMMMMMMMNl  .OMMMMMMMMMXc
 MMMMMMMMMMMMMWNWMMMMXxlo0WMMMMMMMMMMMMMMMMXkllKMMMMMMMMMMMMMMMMNc  .kMMMMMMMMMWXKKXWMMMMMMMMMMMMNKKXNMMWX0KNMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWMMMMMMMMMMMMMMMMMNOoodKMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                                                                                                                                                                                               
 
-VLAN L2 Pivoting Instrument
+VLAN ID Parser
 Author: Caster, @casterbyte, <caster@exploit.org>
 
 usage: HIVE.py [-h] --interface INTERFACE --timeout TIMEOUT
