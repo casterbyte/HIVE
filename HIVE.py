@@ -27,7 +27,7 @@ MMMMMMMMMMMW0c,lKWMM0' .xWMMMMMMMMMMMMMMMWO'  ;0MMMMMMMMMMMMMMMNl  .OMMMMMMMMMXc
 MMMMMMMMMMMMMWNWMMMMXxlo0WMMMMMMMMMMMMMMMMXkllKMMMMMMMMMMMMMMMMNc  .kMMMMMMMMMWXKKXWMMMMMMMMMMMMNKKXNMMWX0KNMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWMMMMMMMMMMMMMMMMMNOoodKMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                                                                                                                                                                                               
 """)
-print(Fore.WHITE + Style.BRIGHT + "VLAN Hopping Instrument")
+print(Fore.WHITE + Style.BRIGHT + "VLAN ID Parser")
 print(Fore.WHITE + Style.BRIGHT + "Author: Caster, @casterbyte, <caster@exploit.org>\n")
 
 
