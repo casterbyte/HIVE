@@ -27,8 +27,8 @@ MMMMMMMMMMMW0c,lKWMM0' .xWMMMMMMMMMMMMMMMWO'  ;0MMMMMMMMMMMMMMMNl  .OMMMMMMMMMXc
 MMMMMMMMMMMMMWNWMMMMXxlo0WMMMMMMMMMMMMMMMMXkllKMMMMMMMMMMMMMMMMNc  .kMMMMMMMMMWXKKXWMMMMMMMMMMMMNKKXNMMWX0KNMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWMMMMMMMMMMMMMMMMMNOoodKMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                                                                                                                                                                                               
 """)
-print(Fore.WHITE + Style.BRIGHT + "VLAN L2 Pivoting Instrument")
-print(Fore.WHITE + Style.BRIGHT + "Author: Caster, @c4s73r, <c4s73r@protonmail.com>\n")
+print(Fore.WHITE + Style.BRIGHT + "VLAN Hopping Instrument")
+print(Fore.WHITE + Style.BRIGHT + "Author: Caster, @casterbyte, <caster@exploit.org>\n")
 
 
 def vlan_sniffer(interface, timeout):
