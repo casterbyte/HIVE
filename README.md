@@ -1,4 +1,4 @@
-# HIVE (Not maintained, RIP)
+# HIVE (Not Maintained, RIP)
 VLAN ID Parser
 
 This tool analyzes traffic for VLAN ID for gaining access to other VLAN segments. "HIVE" is completely self-contained and does not create any noise on the air. After traffic analysis, the tool creates virtual VLAN interfaces, to gain access to VLAN segments.
@@ -48,7 +48,7 @@ MMMMMMMMMMMMMWNWMMMMXxlo0WMMMMMMMMMMMMMMMMXkllKMMMMMMMMMMMMMMMMNc  .kMMMMMMMMMWX
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWMMMMMMMMMMMMMMMMMNOoodKMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                                                                                                                                                                                               
 
 VLAN ID Parser
-Author: Caster, @casterbyte, <caster@exploit.org>
+Author: Caster, <caster@exploit.org>
 
 usage: HIVE.py [-h] --interface INTERFACE --timeout TIMEOUT
 
@@ -59,6 +59,6 @@ options:
   --timeout TIMEOUT     How long the tool will listen to traffic
   ```
 ```
-sudo python3 HIVE.py --interface ethX --timeout 60
+sudo python3 HIVE.py --interface eth0 --timeout 60
 ```
 
