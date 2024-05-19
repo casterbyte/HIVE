@@ -1,4 +1,4 @@
-# HIVE
+# HIVE (Not maintained, RIP)
 VLAN ID Parser
 
 This tool analyzes traffic for VLAN ID for gaining access to other VLAN segments. "HIVE" is completely self-contained and does not create any noise on the air. After traffic analysis, the tool creates virtual VLAN interfaces, to gain access to VLAN segments.
